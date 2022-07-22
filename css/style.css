@@ -100,12 +100,4 @@ li{
     font-weight: bold;
 }
 
-.box1:hover{
-    transform: translateX(500px);
-    transition: all 3s ease;
-}
 
-.box2:hover{
-    transform: scale(1.5);
-    transition: all 3s;
-}
